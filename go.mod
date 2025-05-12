@@ -1,3 +1,3 @@
-module learning/go_fib_module
+module github.com/stelselim/go-fast-fibo
 
 go 1.24.2
